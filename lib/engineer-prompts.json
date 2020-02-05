@@ -1,0 +1,22 @@
+[
+    {
+        "type": "input",
+        "name": "engineerName",
+        "message": "What is your engineer's name?"
+    },
+    {
+        "type": "input",
+        "name": "engineerID",
+        "message": "What is your engineer's ID?"
+    },
+    {
+        "type": "input",
+        "name": "engineerEmail",
+        "message": "What is your engineer's e-mail?"
+    },
+    {
+        "type": "input",
+        "name": "engineerGit",
+        "message": "What is your engineer's GitHub username?"
+    }
+]

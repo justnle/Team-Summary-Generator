@@ -1,0 +1,8 @@
+[
+    {
+        "type": "list",
+        "name": "teamMember",
+        "choices": ["Engineer", "Intern", "I don't want to add any more team members"],
+        "message": "Which team member would you like to add?"
+    }
+]
