@@ -29,8 +29,8 @@ Unique role information displayed:
 * Intern - Educational institution
 
 ### Demo
-![]()
-[Video]()
+![](https://github.com/twopcz/Team-Summary-Generator/blob/master/assets/images/team-generator.gif?raw=true)
+[Video](https://github.com/twopcz/Team-Summary-Generator/blob/master/assets/images/team-generator.mp4)
 
 # Technologies
 
