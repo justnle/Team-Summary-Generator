@@ -1,16 +1,15 @@
 'use strict';
 
-const library = require('./lib');
+const appFunctions = require(__dirname + '/lib/appFunctions');
 
 async function init() {
   console.log('Initializing...');
   console.log('--------------------');
-
-  try {
-    await library.appFunctions.promptUser();
-  } catch (err) {
-    console.log(err);
-  }
+  console.log('Please build your team.');
+  await appFunctions.addManager();
+  await appFunctions.addTeamMember();
+  await appFunctions.display();
+  await appFunctions.openHTML();
 }
 
 init();
