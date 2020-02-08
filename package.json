@@ -15,16 +15,15 @@
     "type": "git",
     "url": "git+https://github.com/twopcz/Team-Summary-Generator.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Justin Le <me@justinle.page> (https://justinle.page)",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/twopcz/Team-Summary-Generator/issues"
   },
   "homepage": "https://github.com/twopcz/Team-Summary-Generator#readme",
   "dependencies": {
     "inquirer": "^7.0.4",
-    "open": "^7.0.2",
-    "save": "^2.4.0"
+    "open": "^7.0.2"
   },
   "devDependencies": {
     "jest": "^25.1.0"
