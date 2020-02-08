@@ -15,8 +15,8 @@
     "type": "git",
     "url": "git+https://github.com/twopcz/Team-Summary-Generator.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Justin Le <me@justinle.page> (https://justinle.page)",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/twopcz/Team-Summary-Generator/issues"
   },
