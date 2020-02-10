@@ -61,7 +61,7 @@ Documentation on dependencies:
 
 * [Inquirer](https://www.npmjs.com/package/inquirer#documentation) - used to prompt the user and store their answers
 * [Jest](https://jestjs.io/docs/en/getting-started) - unit testing framework
-* [open](https://www.npmjs.com/package/open) - used to open the .pdf file
+* [open](https://www.npmjs.com/package/open) - used to open the .html file
 
 # Testing
 Run:
