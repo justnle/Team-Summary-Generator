@@ -7,7 +7,7 @@ async function init() {
 
   await appFunctions.addTeam('Manager');
   await appFunctions.additionalMember();
-  await appFunctions.display();
+  await appFunctions.saveHTML();
   await appFunctions.openHTML();
 }
 
