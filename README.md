@@ -28,6 +28,9 @@ Unique role information displayed:
 * Engineer - GitHub username
 * Intern - Educational institution
 
+### Generated HTML Screenshot
+![](https://github.com/twopcz/Team-Summary-Generator/blob/regex/assets/images/teamgenerator.png?raw=true)
+
 ### Demo
 ![](https://github.com/twopcz/Team-Summary-Generator/blob/master/assets/images/team-generator.gif?raw=true)
 [Video](https://github.com/twopcz/Team-Summary-Generator/blob/master/assets/images/team-generator.mp4)
@@ -69,7 +72,7 @@ npm test
 Which will start the `jest` module to run the tests in the `tests/` folder.
 
 # Enhancements
-I would like to add validation for some of the team member's information such as their ID number, email, github, etc. Each of those are likely to be unique to the team member and it should be handled correctly.
+I would like to add validation for some of the team member's information such as their ID number, email, github, etc. Each of those are likely to be unique to the team member and it should be handled correctly. Also I would make sure that the user's input would be formatted correctly, e.g. proper capitalization for team member names, schools, etc.
 
 # License
 This project is licensed under the MIT License - see the LICENSE.md file for details
